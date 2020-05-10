@@ -9,5 +9,5 @@ Helm chart for [Shaarli](https://github.com/shaarli/Shaarli), the self-hosted bo
 
 ## Prerequisites
 
--  Kubernetes 1.8+
+-  Kubernetes 1.16+
 -  Helm 2.8+
